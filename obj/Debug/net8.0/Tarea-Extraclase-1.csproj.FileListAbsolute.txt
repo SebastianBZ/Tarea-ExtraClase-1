@@ -1,0 +1,15 @@
+c:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\bin\Debug\net8.0\Tarea-Extraclase-1.exe
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\bin\Debug\net8.0\Tarea-Extraclase-1.deps.json
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\bin\Debug\net8.0\Tarea-Extraclase-1.runtimeconfig.json
+c:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\bin\Debug\net8.0\Tarea-Extraclase-1.dll
+c:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\bin\Debug\net8.0\Tarea-Extraclase-1.pdb
+c:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\obj\Debug\net8.0\Tarea-Extraclase-1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\obj\Debug\net8.0\Tarea-Extraclase-1.AssemblyInfoInputs.cache
+c:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\obj\Debug\net8.0\Tarea-Extraclase-1.AssemblyInfo.cs
+c:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\obj\Debug\net8.0\Tarea-Extraclase-1.csproj.CoreCompileInputs.cache
+c:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\obj\Debug\net8.0\Tarea-Extraclase-1.sourcelink.json
+c:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\obj\Debug\net8.0\Tarea-Extraclase-1.dll
+c:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\obj\Debug\net8.0\refint\Tarea-Extraclase-1.dll
+c:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\obj\Debug\net8.0\Tarea-Extraclase-1.pdb
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\obj\Debug\net8.0\Tarea-Extraclase-1.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1\obj\Debug\net8.0\ref\Tarea-Extraclase-1.dll
